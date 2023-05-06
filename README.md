@@ -1,5 +1,6 @@
 # ThinkaiNLP
 Personalizing AI to fit the moroccan community
+<img src = "https://user-images.githubusercontent.com/132778772/236648106-e7125651-09bd-4d64-bed0-68166b2fb2fe.png" alt = "photo ai translate">
 [Screenshot](traducteur(1).png)
 <h2> Situation </h2>
 
