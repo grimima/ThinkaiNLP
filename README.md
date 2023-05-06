@@ -1,2 +1,5 @@
 # ThinkaiNLP
-Our Ai competition project for personnalizing AI to moroccan people
+Personalizing AI to fit the moroccan community
+
+<h2> Situation </h2>
+
