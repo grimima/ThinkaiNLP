@@ -10,7 +10,7 @@ Amina is a young motivated moroccan who is intrested in self improvement industr
 </p>
 <p> And we, as proud moroccans, want to include our culture into the new world of digitalization that includes the AI revolution we are witnessing these days. Given this, we have tried to develop a NLP model that is able to translate english sentences to the moroccan dialect, THE DARIJA </p>
 
-<h2>STEPS WE FOLLOWED <h2>
+<h2>Along the creation <h2>
 
 
 
