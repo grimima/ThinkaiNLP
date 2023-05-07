@@ -83,6 +83,7 @@ DEMO
 
 As the image show, the output is either given in arabic charcaters,or the french characterized words are meaningless. At this stage, dataset is again another challenge since 10000 rows isn't enough to train large models such MT0 
 
-
+## Final words
+We hoped we had more time and a larger dataset to step forward to realize our goals.
 
 
