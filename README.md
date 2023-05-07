@@ -30,6 +30,13 @@ And we, as proud moroccans, want to include our culture into the new world of di
 
 ---
 
+
+![image](https://user-images.githubusercontent.com/132778772/236660548-c2cbaa45-cc7a-499c-83df-2e69a9934b01.png)
+
+
+
+---
+
 ## The dataset
 
 - We have employed the open-source dataset we have been provided in the name of DODA. Here is the link: https://github.com/darija-open-dataset/dataset .
@@ -73,6 +80,7 @@ DEMO
 ![image](https://user-images.githubusercontent.com/132778772/236659787-663f9b39-2b16-496e-99bc-edd4c7798eb4.png)
 
 ![image](https://user-images.githubusercontent.com/132778772/236659878-c101326f-41a1-4b00-be97-f4fbae930c64.png)
+
 As the image show, the output is either given in arabic charcaters,or the french characterized words are meaningless. At this stage, dataset is again another challenge since 10000 rows isn't enough to train large models such MT0 
 
 
