@@ -16,6 +16,8 @@ Amina is a young motivated moroccan who is intrested in self improvement industr
   It contains 10002 rows that we have divided by 80% for training and 20% of testing. Says 7996 training rows and 2000 testing rows. 
   <h3>The model we have used </h3>
   The T5-flat model is what the project mainly relied on. You can find the link here:https://github.com/huggingface/notebooks/blob/main/examples/translation.ipynb
+  <h3>the strategie </h3>
+  
 
 
 
