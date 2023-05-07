@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/132778772/236659379-4cc5c906-592a-4d08-be3d-1c63e52bcfa3.png)
 
 
-- Derej with me is here to help 
+                                       Derej with me is here to help 
 
 ---
 
@@ -49,11 +49,32 @@ tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
 
 ---
 
-## Fine tuning
+## Models
+### FLAN-T5
 
 ```Python 
-model = AutoModelForseq2SeqLm.from_pretrained(model_checkpoint)
+model_checkpoint = "google/flan-t5-base"
 ```
+DEMO
 
-## Models
+![image](https://user-images.githubusercontent.com/132778772/236659769-baed4c91-a737-44a1-91f3-7c9ac1ee2a46.png)
+
+After testing the model couple of time, we had some results as if the model overfitted or underfitted. For that, we think that the scale of data is shrinking the capacity of the model to learn especially that it is aa model that hass never met Darija before. And so, we have tried the **MT0** model on the same dataset.
+
+### MT0
+
+For this one model, we have tried to train it the same way as the previous one. And added an interface for our Ai  that you can find in : https://huggingface.co/spaces/Salmaelbarbori/thinkai_um6p
+
+```Python
+model_checkpoint = "bigscience/mt0-base"
+```
+DEMO
+
+![image](https://user-images.githubusercontent.com/132778772/236659787-663f9b39-2b16-496e-99bc-edd4c7798eb4.png)
+
+![image](https://user-images.githubusercontent.com/132778772/236659878-c101326f-41a1-4b00-be97-f4fbae930c64.png)
+As the image show, the output is either given in arabic charcaters,or the french characterized words are meaningless. At this stage, dataset is again another challenge since 10000 rows isn't enough to train large models such MT0 
+
+
+
 
