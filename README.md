@@ -10,13 +10,16 @@ Amina is a young motivated moroccan who is intrested in self improvement industr
 </p>
 <p> And we, as proud moroccans, want to include our culture into the new world of digitalization that includes the AI revolution we are witnessing these days. Given this, we have tried to develop a NLP model that is able to translate english sentences to the moroccan dialect, THE DARIJA </p>
 
-<h2>Along the creation <h2>
+<h2>Along the 1st model  <h2>
   <h3>The dataset </h3>
   We have employed the open-source dataset we have been provided in the name of DODA. Here is the link:https://github.com/darija-open-dataset/dataset
   It contains 10002 rows that we have divided by 80% for training and 20% of testing. Says 7996 training rows and 2000 testing rows. 
   <h3>The model we have used </h3>
   The T5-flat model is what the project mainly relied on. You can find the link here:https://github.com/huggingface/notebooks/blob/main/examples/translation.ipynb
-  <h3>the strategie </h3>
+  <h3>Strategie </h3>
+  <ul>
+  
+  
   
 
 
