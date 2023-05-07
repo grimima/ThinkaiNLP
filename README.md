@@ -1,6 +1,6 @@
 # ThinkaiNLP
 Personalizing AI to fit the moroccan community
-<img src = "https://www.istockphoto.com/photo/arabic-painted-tiles-texture-gm175539735-20818897?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fmoroccan-mozaique&utm_term=moroccan+mozaique%3A%3A%3A" alt = "photo ai translate">
+
 The team solvers, consisted of 3 ESI students, are presenting you their project in aim to win the THINKAI HACKATHON.
 <h2> Situation </h2>
 
