@@ -18,6 +18,10 @@ Amina is a young motivated moroccan who is intrested in self improvement industr
   The T5-flat model is what the project mainly relied on. You can find the link here:https://github.com/huggingface/notebooks/blob/main/examples/translation.ipynb
   <h3>Strategie </h3>
   <ul>
+  <li><h4>Preprocessing</h4>
+  the preprocessing phase consists of tokenization of the dataset and clean it.
+  <li><h4>Fine-tuning</h4>
+  We have 
   
   
   
