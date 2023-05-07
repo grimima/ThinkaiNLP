@@ -12,7 +12,10 @@ Amina is a young motivated moroccan who is intrested in self improvement industr
 
 <h2>Along the creation <h2>
   <h3>The dataset </h3>
-  We have employed an open-source dataset
+  We have employed the open-source dataset we have been provided in the name of DODA. Here is the link:https://github.com/darija-open-dataset/dataset
+  It contains 10002 rows that we have divided by 80% for training and 20% of testing. Says 7996 training rows and 2000 testing rows. 
+  <h3>The model we have used </h3>
+  The T5-flat model is what the project mainly relied on. You can find the link here:https://github.com/huggingface/notebooks/blob/main/examples/translation.ipynb
 
 
 
