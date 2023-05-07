@@ -23,9 +23,8 @@ Amina is a young motivated moroccan who is intrested in self improvement industr
   <li><h4>Preprocessing</h4>
   the preprocessing phase consists of tokenization of the dataset and clean it.
   <li><h4>Fine-tuning</h4>
-  We tried to adjust the pre-existing model to our dataset by setting our current dataset to the model.
-  '''python 
-  '''
+  For this first approach, we would be fine-tuning our model in order to adjust to our dataset.
+  <h3
   
   
   
